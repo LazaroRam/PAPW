@@ -1,0 +1,72 @@
+/*
+COLOR PALETE
+#304a76
+#f2f2f2	
+#ffb6b6	
+#ffebeb	
+#a4add8
+
+
+#5f6366	
+#4d6d9a	
+#86b3d1	
+#99ced3	
+#eecbd1
+
+
+
+#907E37
+
+#772266
+#371E37
+#edce55
+#ba349f
+#261526
+*/
+body{
+
+	background-color:#907E37;
+}
+
+
+.navbar {
+	background-color:#371E37 !important ;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link	{
+	color: #907E37;
+}
+.navbar-light .navbar-nav .nav-link:hover	{
+	color: #edce55;
+}
+
+.navbar-light .btn{
+	margin-left: 10px;
+}
+.navbar-light .btn-outline-primary{
+	color: #907E37;
+
+	border-color: #D5A021 !important;
+	background-color: #371E37 ;
+}
+.navbar-light .btn-outline-primary:hover {
+color: #371E37;
+	border-color: #371E37;
+	background-color: #907E37 ;
+	
+}
+
+
+.whiteFont{
+background-color: #FEF9FD;
+
+width:  1140px;
+
+}
+
+
+.titulosIndex{
+	margin-top: 40px;
+}
